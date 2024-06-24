@@ -1,0 +1,11 @@
+.wrapper
+{
+    display: flex;
+    flex-direction: column;
+}
+#heading
+{
+    margin: 0 auto;
+    color: aqua;
+    letter-spacing: 8px;
+}

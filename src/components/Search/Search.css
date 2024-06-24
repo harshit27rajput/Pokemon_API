@@ -1,0 +1,10 @@
+    .wrapper
+    {
+        margin: auto;
+    }
+    #search
+    {
+        margin-top: 1rem;
+        width: 500px;
+        padding: 1rem;
+    }
